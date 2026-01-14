@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+#home-bg-img{
+  background-image: url('https://images.pexels.com/photos/626986/pexels-photo-626986.jpeg?cs=srgb&dl=pexels-tuurt-626986.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
